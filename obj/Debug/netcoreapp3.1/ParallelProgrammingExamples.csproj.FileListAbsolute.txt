@@ -1,0 +1,14 @@
+C:\Devs\Test\Async\ParallelProgrammingExamples\obj\Debug\netcoreapp3.1\ParallelProgrammingExamples.csproj.AssemblyReference.cache
+C:\Devs\Test\Async\ParallelProgrammingExamples\obj\Debug\netcoreapp3.1\ParallelProgrammingExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devs\Test\Async\ParallelProgrammingExamples\obj\Debug\netcoreapp3.1\ParallelProgrammingExamples.AssemblyInfoInputs.cache
+C:\Devs\Test\Async\ParallelProgrammingExamples\obj\Debug\netcoreapp3.1\ParallelProgrammingExamples.AssemblyInfo.cs
+C:\Devs\Test\Async\ParallelProgrammingExamples\obj\Debug\netcoreapp3.1\ParallelProgrammingExamples.csproj.CoreCompileInputs.cache
+C:\Devs\Test\Async\ParallelProgrammingExamples\bin\Debug\netcoreapp3.1\ParallelProgrammingExamples.exe
+C:\Devs\Test\Async\ParallelProgrammingExamples\bin\Debug\netcoreapp3.1\ParallelProgrammingExamples.deps.json
+C:\Devs\Test\Async\ParallelProgrammingExamples\bin\Debug\netcoreapp3.1\ParallelProgrammingExamples.runtimeconfig.json
+C:\Devs\Test\Async\ParallelProgrammingExamples\bin\Debug\netcoreapp3.1\ParallelProgrammingExamples.runtimeconfig.dev.json
+C:\Devs\Test\Async\ParallelProgrammingExamples\bin\Debug\netcoreapp3.1\ParallelProgrammingExamples.dll
+C:\Devs\Test\Async\ParallelProgrammingExamples\bin\Debug\netcoreapp3.1\ParallelProgrammingExamples.pdb
+C:\Devs\Test\Async\ParallelProgrammingExamples\obj\Debug\netcoreapp3.1\ParallelProgrammingExamples.dll
+C:\Devs\Test\Async\ParallelProgrammingExamples\obj\Debug\netcoreapp3.1\ParallelProgrammingExamples.pdb
+C:\Devs\Test\Async\ParallelProgrammingExamples\obj\Debug\netcoreapp3.1\ParallelProgrammingExamples.genruntimeconfig.cache
